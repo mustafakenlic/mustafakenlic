@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Hi 👋, I'm Mustafa Kenliç, as an experienced developer who can understand and analyze needs in projects, takes a problem solving approach, I have over 20 years of experience in various projects and companies. My expertise lies in developing search engine friendly, secure, and high performance web applications.
+Hi 👋, I'm Mustafa Kenliç, as an experienced developer who can understand and analyze needs in projects, takes a problem solving approach, I have over 20+ years of experience in various projects and companies. My expertise lies in developing search engine friendly, secure, and high performance web applications.
 
 ### **Connect & Follow Me**
 
