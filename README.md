@@ -26,7 +26,7 @@ Hi 👋, I'm Mustafa Kenliç, as an experienced developer who can understand and
 
 **⇃ Tools ⇂**
 
-![](https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white)   ![](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![](https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)   ![](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 
 **⇃ Databases ⇂**
 
